@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/tareas-firebase/static/js/main.ba4083da.js",
+    "main.css": "/tareas-firebase/static/css/main.e88cfd32.css",
+    "main.js": "/tareas-firebase/static/js/main.0ebe6b3f.js",
     "index.html": "/tareas-firebase/index.html",
-    "main.ba4083da.js.map": "/tareas-firebase/static/js/main.ba4083da.js.map"
+    "main.e88cfd32.css.map": "/tareas-firebase/static/css/main.e88cfd32.css.map",
+    "main.0ebe6b3f.js.map": "/tareas-firebase/static/js/main.0ebe6b3f.js.map"
   },
   "entrypoints": [
-    "static/js/main.ba4083da.js"
+    "static/css/main.e88cfd32.css",
+    "static/js/main.0ebe6b3f.js"
   ]
 }
